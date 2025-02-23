@@ -18,4 +18,4 @@ dependencies = [
 ]
 
 [project.scripts]
-smoke-tracker = "smoke_tracker.main:main"
+smoke-tracker = "smoke_tracker.cli:main"  # Updated reference
